@@ -1,0 +1,7 @@
+=== Jumping Santa - một trò chơi dựa trên trò chơi khủng long từ Chrome ===
+
+Hướng dẫn chơi game:
+ - Bước 1: Giải nén file .zip
+ - Bước 2: Mở thư mục Debug
+ - Bước 3: Tìm và chạy file thực thi: JUMPING SANTA GAME.exe
+ - Ngoài ra, phần âm thanh, đồ họa và thuật toán được liệt kê tóm tắt trong file README.txt
